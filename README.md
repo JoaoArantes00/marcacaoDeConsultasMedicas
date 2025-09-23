@@ -137,6 +137,12 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 - [Styled Components](https://styled-components.com/)
 - Todos os contribuidores do projeto
 
+João Marcos Arantes Pupo - 97693
+Gabriel de Moraes Alba - 98212
+Guilherme Saraiva Lustosa - 550423
+Davi Fernandes Coutinho - 550727
+Nilton Miranda - 97868
+
 ## Suporte
 
 Se você encontrar algum problema ou tiver sugestões, por favor abra uma issue no GitHub.
